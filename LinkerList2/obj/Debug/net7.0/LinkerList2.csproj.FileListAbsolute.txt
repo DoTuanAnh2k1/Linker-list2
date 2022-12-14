@@ -1,0 +1,15 @@
+E:\Data\visual_studio\C#\LinkerList2\bin\Debug\net7.0\LinkerList2.exe
+E:\Data\visual_studio\C#\LinkerList2\bin\Debug\net7.0\LinkerList2.deps.json
+E:\Data\visual_studio\C#\LinkerList2\bin\Debug\net7.0\LinkerList2.runtimeconfig.json
+E:\Data\visual_studio\C#\LinkerList2\bin\Debug\net7.0\LinkerList2.dll
+E:\Data\visual_studio\C#\LinkerList2\bin\Debug\net7.0\LinkerList2.pdb
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.csproj.AssemblyReference.cache
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.AssemblyInfoInputs.cache
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.AssemblyInfo.cs
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.csproj.CoreCompileInputs.cache
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.dll
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\refint\LinkerList2.dll
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.pdb
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\LinkerList2.genruntimeconfig.cache
+E:\Data\visual_studio\C#\LinkerList2\obj\Debug\net7.0\ref\LinkerList2.dll
